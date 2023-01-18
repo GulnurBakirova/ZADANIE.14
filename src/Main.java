@@ -24,5 +24,7 @@ public class Main {
         singer.singing();
         singer.playGuitar();
         System.out.println(singer);
+
+
     }
 }
